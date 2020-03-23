@@ -1,1 +1,3 @@
-Seattle is a wonderful city, but my job is relocating me to another location. I am offered the option of going to Austin, Portland, Denver, or Baltimore. 
+* Foursquare data on venues (location, type, reviews) (only care about parks, coffeeshops, restaurants, breweries, bars)
+* city data with neighborhoods, geolocations
+* housing prices and locations
